@@ -7,7 +7,7 @@ using UnityEngine;
 public class RpiTcpClient : MonoBehaviour
 {
     [Header("Raspberry Pi Settings")]
-    public string serverIp = "192.168.0.201"; // 改成你樹莓派的 IP
+    public string serverIp = "192.168.0.201"; 
     public int serverPort = 5005;
 
     private TcpClient client;
@@ -25,23 +25,15 @@ public class RpiTcpClient : MonoBehaviour
         CloseConnection();
     }
 
-    // -------------------------------
-    // 這兩個是給 UI Button 用的函式
-    // -------------------------------
-
-    public void OnFeedPetButtonClicked()
+    public void OnActivateButtonClicked()
     {
-        // 點「餵寵物」按鈕 → 傳 FEED_PET 指令
-        SendCommand("FEED_PET\n");
+        SendCommand("ACTIVATE\n");
     }
 
-    public void OnToggleLightButtonClicked()
+    public void OnDeactivateButtonClicked()
     {
-        // 點「開關燈」按鈕 → 傳 TOGGLE_LIGHT 指令
-        SendCommand("TOGGLE_LIGHT\n");
+        SendCommand("DEACTIVATE\n");
     }
-
-    // ---- 以下跟你原本的一樣 ----
 
     public void ConnectToServer()
     {
