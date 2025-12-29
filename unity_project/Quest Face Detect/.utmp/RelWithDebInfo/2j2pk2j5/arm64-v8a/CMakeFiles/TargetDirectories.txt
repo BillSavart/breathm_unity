@@ -1,0 +1,5 @@
+/Users/billwang/Desktop/unity_project/Quest Face Detect/.utmp/RelWithDebInfo/2j2pk2j5/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/billwang/Desktop/unity_project/Quest Face Detect/.utmp/RelWithDebInfo/2j2pk2j5/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/billwang/Desktop/unity_project/Quest Face Detect/.utmp/RelWithDebInfo/2j2pk2j5/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/billwang/Desktop/unity_project/Quest Face Detect/.utmp/RelWithDebInfo/2j2pk2j5/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/billwang/Desktop/unity_project/Quest Face Detect/.utmp/RelWithDebInfo/2j2pk2j5/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

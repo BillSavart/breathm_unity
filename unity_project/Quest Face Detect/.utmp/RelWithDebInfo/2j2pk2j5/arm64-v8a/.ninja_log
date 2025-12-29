@@ -1,0 +1,10 @@
+# ninja log v5
+1	611	1766256606877718059	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	337649f3138dbba0
+1	614	1766256606880119699	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	83cacdf8d44a7491
+0	625	1766256606892170856	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c8fe92bb29b5ce6f
+2	627	1766256606894415537	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c2d567170f3596d3
+0	658	1766256606925050434	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	31080faa961948f4
+2	688	1766256606955897624	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9acd2aef81935033
+1	770	1766256607037871503	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2511fa1b9da9ca96
+0	828	1766256607094921646	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d150db281a2c78bb
+828	918	1766256607184501323	/Users/billwang/Desktop/unity_project/Quest Face Detect/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2j2pk2j5/obj/arm64-v8a/libgame.so	20d74cdb562362fc

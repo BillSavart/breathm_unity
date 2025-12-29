@@ -1,0 +1,33 @@
+# -----------
+# 核心忽略規則 (移除開頭的 / 以適用於子資料夾)
+# -----------
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# -----------
+# 系統生成檔
+# -----------
+.DS_Store
+.vs/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# -----------
+# 為了避免誤刪重要的 Asset Store 套件，
+# 如果您有把插件放在專案外的習慣才需要注意，
+# 一般情況下保持這樣即可。
+# -----------
